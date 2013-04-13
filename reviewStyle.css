@@ -1,0 +1,17 @@
+body {
+	font-family: 'Verdana';
+	color: #377BA8;
+}
+
+input[type=text] {
+    border: 2px solid #ccc;
+    padding: 5px;
+    font-size: 1em; 
+}
+.page {
+   margin: 2em;
+   width: 50em;
+   border: 5px solid #ccc;
+   padding: 0.8em;
+   background: white;
+}
